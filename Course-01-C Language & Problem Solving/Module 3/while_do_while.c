@@ -20,5 +20,15 @@ int main()
     i++;
   }
 
+  // do while
+  printf("do-while loop:\n");
+
+  int j = 1;
+  do
+  {
+    printf("%d\n", j);
+    j++;
+  } while (j <= 5);
+
   return 0;
 }
