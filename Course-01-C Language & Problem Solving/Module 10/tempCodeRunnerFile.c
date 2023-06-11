@@ -1,2 +1,3 @@
- // puts(ch);
-  // puts(ch);
+
+  char secondStr[] = "hello";
+  printf("%d", strcmp(firstStr, secondStr));
