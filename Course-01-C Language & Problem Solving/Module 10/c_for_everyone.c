@@ -18,11 +18,16 @@ int main()
   }
 
   // 2. Get String as Input and Print It
-  /*  char name[64];
+
+  /*
+
+   char name[64];
    printf("\n Your name please: ");
    gets(name);
    printf("\n\n So, you are %s\n", name);
-   puts(name); */
+   puts(name);
+
+   */
 
   // 3. String Copy
   char name_1[30] = "John Doe";
@@ -42,7 +47,9 @@ int main()
 
   // 6. Compare Two String
 
-  /*   char str1[30], str2[40];
+  /*
+
+    char str1[30], str2[40];
     int x;
     printf("\n Enter first string:");
     gets(str1);
@@ -58,37 +65,53 @@ int main()
     else
     {
       printf("\n\n Two string's are equal");
-    } */
+    }
+
+  */
 
   // 7. Convert UPPER CASE letter
 
-  /*  char ch[30];
+  /*
+
+   char ch[30];
    printf("\n Enter your string:");
    gets(ch);
    strupr(ch);
    printf("\n Uppercase of  your string:");
-   puts(ch); */
+   puts(ch);
+
+  */
 
   // 8. Convert lower case letter
 
-  /*  char ch[30];
+  /*
+
+   char ch[30];
    printf("\n Enter your string:");
    gets(ch);
    strlwr(ch);
    printf("\n Lowercase of  your string:");
-   puts(ch); */
+   puts(ch);
+
+  */
 
   // 9. Reverse The String
 
-  /*   char name[30];
+  /*
+
+    char name[30];
     printf("\n Enter your name:");
     gets(name);
     strrev(name);
-    printf("\n\n Reverse: %s", name); */
+    printf("\n\n Reverse: %s", name);
+
+  */
 
   // 10. Duplicate String (NOT Working Properly)
 
-  /* char name[30], name1[40];
+  /*
+
+  char name[30], name1[40];
   printf("\n Enter string to duplicate:");
   gets(name);
 
@@ -99,11 +122,15 @@ int main()
   else
   {
     printf("\n Sorry! there is an error occurs");
-  } */
+  }
+
+  */
 
   // 11. Find String Inside Another String
 
-  /*   char main_string[100], sub_string[100], *pos;
+  /*
+
+    char main_string[100], sub_string[100], *pos;
     printf("\n Enter a string: ");
     gets(main_string);
 
@@ -119,7 +146,9 @@ int main()
     else
     {
       printf("\n %s not found.", sub_string);
-    } */
+    }
 
-    return 0;
+  */
+
+  return 0;
 }
