@@ -8,6 +8,7 @@ int main()
   // printf("%s", msg);
 
   // 1. Print String Using Loop
+
   char *city_name[3] = {"Dhaka",
                         "Khulna",
                         "Rajshahi"};
@@ -30,17 +31,20 @@ int main()
    */
 
   // 3. String Copy
+
   char name_1[30] = "John Doe";
   char name_2[30];
   strcpy(name_2, name_1);
   // printf("Programmer name is: %s\n", name_2);
 
   // 4. String Length
+
   char address[] = "Islampara, Gopalganj.";
   int length = strlen(address);
   // printf("Address length: %d\n", length);
 
   // 5. String Concatenation
+
   char country_name[36] = "People's Republic of ";
   strcat(country_name, "Bangladesh");
   // printf("Country name: %s\n", country_name);
