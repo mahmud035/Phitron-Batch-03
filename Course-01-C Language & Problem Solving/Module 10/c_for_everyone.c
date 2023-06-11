@@ -41,6 +41,7 @@ int main()
   // printf("Country name: %s\n", country_name);
 
   // 6. Compare Two String
+
   /*   char str1[30], str2[40];
     int x;
     printf("\n Enter first string:");
@@ -60,6 +61,7 @@ int main()
     } */
 
   // 7. Convert UPPER CASE letter
+
   /*  char ch[30];
    printf("\n Enter your string:");
    gets(ch);
@@ -68,6 +70,7 @@ int main()
    puts(ch); */
 
   // 8. Convert lower case letter
+
   /*  char ch[30];
    printf("\n Enter your string:");
    gets(ch);
@@ -76,6 +79,7 @@ int main()
    puts(ch); */
 
   // 9. Reverse The String
+
   /*   char name[30];
     printf("\n Enter your name:");
     gets(name);
@@ -83,6 +87,7 @@ int main()
     printf("\n\n Reverse: %s", name); */
 
   // 10. Duplicate String (NOT Working Properly)
+
   /* char name[30], name1[40];
   printf("\n Enter string to duplicate:");
   gets(name);
@@ -97,6 +102,7 @@ int main()
   } */
 
   // 11. Find String Inside Another String
+
   /*   char main_string[100], sub_string[100], *pos;
     printf("\n Enter a string: ");
     gets(main_string);
@@ -115,5 +121,5 @@ int main()
       printf("\n %s not found.", sub_string);
     } */
 
-  return 0;
+    return 0;
 }
