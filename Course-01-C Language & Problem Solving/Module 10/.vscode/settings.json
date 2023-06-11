@@ -8,5 +8,6 @@
     "pavel",
     "strlwr",
     "strupr"
-  ]
+  ],
+  "cph.general.onceMaintainerMessage": false
 }
