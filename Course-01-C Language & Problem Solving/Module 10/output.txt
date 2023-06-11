@@ -1,4 +1,1 @@
-
- Enter a string: 
- Enter a word that will search in the above string: 
- com found at position 6.
+Mahamudul Hasan Pavel
