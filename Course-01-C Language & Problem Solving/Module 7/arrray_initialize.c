@@ -2,7 +2,7 @@
 
 int main()
 {
-  int arr[5] = {10, 20, 30, 40, 50};
+  int arr[5] = {0};
   // int arr[] = {10, 20, 30, 40, 50};
 
   // NOTE: both are same.
