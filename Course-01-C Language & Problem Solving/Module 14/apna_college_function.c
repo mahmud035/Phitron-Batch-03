@@ -1,19 +1,23 @@
 #include <stdio.h>
 
-// function declaration/prototype
-void printHello(void);
+// NOTE:function declaration/prototype
+int sum(int, int);
 
 int main()
 {
+  int a, b;
+  scanf("%d%d", &a, &b);
 
-  // function calling / invoking
-  printHello();
+  // NOTE: function call
+  sum(a, b);
 
   return 0;
 }
 
-// function definition
-void printHello()
+// NOTE: function definition
+int sum(int a, int b)
 {
-  printf("Hello!");
+  int total;
+  total = a + b;
+  printf("%d", total);
 }
