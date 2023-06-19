@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// function definition/prototype
+// function declaration/prototype
 void printHello(void);
 
 int main()
@@ -12,7 +12,7 @@ int main()
   return 0;
 }
 
-// function declaration
+// function definition
 void printHello()
 {
   printf("Hello!");
