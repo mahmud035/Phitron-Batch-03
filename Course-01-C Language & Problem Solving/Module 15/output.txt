@@ -1,0 +1,6 @@
+x er value - 5.26
+x er value - 5.26
+ptr er size - 4
+ekhon x er value - 100.20
+ekhon x er value - 100.20
+ekhon x er value - 100.20
