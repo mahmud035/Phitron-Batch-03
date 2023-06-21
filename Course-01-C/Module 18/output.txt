@@ -1,1 +1,1 @@
-Diagonal matrix
+Scalar matrix
