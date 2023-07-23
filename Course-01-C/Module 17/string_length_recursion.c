@@ -15,7 +15,7 @@ void stringLength(char str[], int i, int count)
 
 int main()
 {
-  char str[] = "Hello World";
+  char str[] = "Hello World!!";
   stringLength(str, 0, 0);
 
   return 0;
