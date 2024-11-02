@@ -1,6 +1,7 @@
 {
-  "cSpell.words": ["Hasan", "Mahamudul", "Pavel"],
+  "cSpell.words": ["Hasan", "Mahamudul", "Mahmud", "Pavel"],
   "files.associations": {
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
